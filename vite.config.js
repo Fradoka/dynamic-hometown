@@ -1,3 +1,11 @@
+import {defineConfig} from "vite"
+
+export default defineConfig({
+	plugins: [
+		
+	]
+})
+
 var Like_count, comments, comment, item;
 
 // Describe this function...
